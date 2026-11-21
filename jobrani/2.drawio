@@ -1,0 +1,68 @@
+<mxfile host="65bd71144e">
+    <diagram id="LolGMOC9MrNU8a2ViJbg" name="Page-1">
+        <mxGraphModel dx="1634" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-3" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-1" style="edgeStyle=none;html=1;" target="7p_lPenwLRCAFxvpYL5u-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="start" vertex="1">
+                    <mxGeometry height="80" width="80" x="220" y="615" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-5" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-2" style="edgeStyle=none;html=1;" target="7p_lPenwLRCAFxvpYL5u-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="input n" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-7" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-4" style="edgeStyle=none;html=1;" target="7p_lPenwLRCAFxvpYL5u-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-10" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-4" style="edgeStyle=none;html=1;" target="7p_lPenwLRCAFxvpYL5u-9" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="n = 0" vertex="1">
+                    <mxGeometry height="80" width="80" x="410" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-21" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-6" style="edgeStyle=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="7p_lPenwLRCAFxvpYL5u-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="zero" vertex="1">
+                    <mxGeometry height="60" width="120" x="550" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
+                    <mxGeometry height="30" width="60" x="490" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-12" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-9" style="edgeStyle=none;html=1;" target="7p_lPenwLRCAFxvpYL5u-11" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-14" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-9" style="edgeStyle=none;html=1;" target="7p_lPenwLRCAFxvpYL5u-13" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="450" y="800"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="n % 2 = 0" vertex="1">
+                    <mxGeometry height="90" width="90" x="405" y="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-19" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-11" style="edgeStyle=none;html=1;" target="7p_lPenwLRCAFxvpYL5u-16" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="even" vertex="1">
+                    <mxGeometry height="60" width="120" x="560" y="625" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="odd" vertex="1">
+                    <mxGeometry height="60" width="120" x="550" y="770" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="finish" vertex="1">
+                    <mxGeometry height="80" width="80" x="760" y="615" as="geometry"/>
+                </mxCell>
+                <mxCell id="7p_lPenwLRCAFxvpYL5u-22" edge="1" parent="1" source="7p_lPenwLRCAFxvpYL5u-13" style="edgeStyle=none;html=1;entryX=0.2;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;" target="7p_lPenwLRCAFxvpYL5u-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
